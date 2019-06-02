@@ -7,6 +7,7 @@ Note:
 2) For privacy considerations, the default API key is removed from the code. To use this tool, you need to add your own API key into the code. To apply for an API key, please refer to https://developer.nytimes.com/
 
 * Goal
+
 The goal of this app is to search for articles from New York Times API on a certain date and output a list of article names. By clicking on an article name listed in the search results, a pop-up window is displayed with more information about the article, including the first image in the article, a head paragraph (snippet), and a hyperlink which directs the users to the article on the New York Times' website.
 
 * Design features
