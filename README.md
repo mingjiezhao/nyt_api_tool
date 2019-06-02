@@ -1,4 +1,4 @@
-# nyt_tool
+# An article search tool for New York Times 
 This is a shiny tool created by R to search news on New York Times based on NYT API.
 
 Note: 
